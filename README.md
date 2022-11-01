@@ -9,12 +9,12 @@
 </p>
 <h1 align="center">DiscordJsBotTemplate</h1>
 <h3 align="center">An up to date Bot template using DiscordJs</h3>
-<h3> Autor: Shinokage107<h3>
-<p align="left">
-<a href="https://github.com/Shinokage107" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://twitter.com/Shinokage107" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.instagram.com/shinokagedev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://discordapp.com/users/225274418857771008" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<p align="center">Last update: Tuesday, 1 November at 03:26 CET</p>
+<h5 align="center"> Autor: Shinokage107<h5>
+<p align="center">
+<a href="https://github.com/Shinokage107" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
+<a href="https://twitter.com/Shinokage107" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://www.instagram.com/shinokagedev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" /></a>
+<a href="https://discordapp.com/users/225274418857771008" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
 
-<p align="center">Last update: Tuesday, 1 November at 03:23 CET</p>
