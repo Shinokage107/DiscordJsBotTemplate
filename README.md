@@ -9,7 +9,7 @@
 </p>
 <h1 align="center">DiscordJsBotTemplate</h1>
 <h3 align="center">An up to date Bot template using DiscordJs</h3>
-<p align="center">Last update: Tuesday, 1 November at 03:26 CET</p>
+<p align="center">Last update: 17/08/2023</p>
 <h5 align="center"> Autor: Shinokage107<h5>
 <p align="center">
 <a href="https://github.com/Shinokage107" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
@@ -17,4 +17,3 @@
 <a href="https://www.instagram.com/shinokagedev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" /></a>
 <a href="https://discordapp.com/users/225274418857771008" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
-
